@@ -1,12 +1,4 @@
 good morning
 good afternoon
 good night 
-new command
-
-
-
-
-
-
-
-
+new comm
